@@ -2,7 +2,7 @@ package org.mind;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-//show me the money
+//show me the money lalalalaalla
 @SpringBootApplication
 public class App
 {
